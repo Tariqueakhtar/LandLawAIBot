@@ -1,0 +1,72 @@
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Start to run 6 nodes with concurrency level 16.
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Executing node setup_env. node run id: f1477239-0352-4704-b744-f41b7fc3e6d3_setup_env_0
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Node setup_env completes.
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Executing node download_tool. node run id: f1477239-0352-4704-b744-f41b7fc3e6d3_download_tool_0
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Executing node rewrite_question_tool. node run id: f1477239-0352-4704-b744-f41b7fc3e6d3_rewrite_question_tool_0
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Node download_tool completes.
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Executing node build_index_tool. node run id: f1477239-0352-4704-b744-f41b7fc3e6d3_build_index_tool_0
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Chunk size: 1024, chunk overlap: 64
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index path: /Users/tarique/Downloads/LLM-main/core/chat_with_pdf/.index/.pdfs/tenancyguideen.pdf.index_1024_64
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index already exists, bypassing index creation
+2024-03-16 14:12:14 +0400   35642 execution.flow     INFO     Node build_index_tool completes.
+2024-03-16 14:12:16 +0400   35642 execution.flow     INFO     [rewrite_question_tool in line 0 (index starts from 0)] stdout> Rewritten question: What does Law No. (6) of 2019 Concerning Ownership of Jointly Owned Real Property in the Emirate of Dubai entail?
+2024-03-16 14:12:16 +0400   35642 execution.flow     INFO     Node rewrite_question_tool completes.
+2024-03-16 14:12:16 +0400   35642 execution.flow     INFO     Executing node find_context_tool. node run id: f1477239-0352-4704-b744-f41b7fc3e6d3_find_context_tool_0
+2024-03-16 14:12:16 +0400   35642 execution.flow     INFO     Node find_context_tool completes.
+2024-03-16 14:12:16 +0400   35642 execution.flow     INFO     Executing node qna_tool. node run id: f1477239-0352-4704-b744-f41b7fc3e6d3_qna_tool_0
+2024-03-16 14:12:18 +0400   35642 execution.flow     INFO     Node qna_tool completes.
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Start to run 6 nodes with concurrency level 16.
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Executing node setup_env. node run id: e93c4500-8a6f-444f-a4f1-3aaccc81c21b_setup_env_0
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Node setup_env completes.
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Executing node download_tool. node run id: e93c4500-8a6f-444f-a4f1-3aaccc81c21b_download_tool_0
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Executing node rewrite_question_tool. node run id: e93c4500-8a6f-444f-a4f1-3aaccc81c21b_rewrite_question_tool_0
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Node download_tool completes.
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Executing node build_index_tool. node run id: e93c4500-8a6f-444f-a4f1-3aaccc81c21b_build_index_tool_0
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Chunk size: 1024, chunk overlap: 64
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index path: /Users/tarique/Downloads/LLM-main/core/chat_with_pdf/.index/.pdfs/tenancyguideen.pdf.index_1024_64
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index already exists, bypassing index creation
+2024-03-16 14:12:45 +0400   35642 execution.flow     INFO     Node build_index_tool completes.
+2024-03-16 14:12:46 +0400   35642 execution.flow     INFO     [rewrite_question_tool in line 0 (index starts from 0)] stdout> Rewritten question: What documents are required for registration in Ejari?
+2024-03-16 14:12:46 +0400   35642 execution.flow     INFO     Node rewrite_question_tool completes.
+2024-03-16 14:12:46 +0400   35642 execution.flow     INFO     Executing node find_context_tool. node run id: e93c4500-8a6f-444f-a4f1-3aaccc81c21b_find_context_tool_0
+2024-03-16 14:12:46 +0400   35642 execution.flow     INFO     Node find_context_tool completes.
+2024-03-16 14:12:46 +0400   35642 execution.flow     INFO     Executing node qna_tool. node run id: e93c4500-8a6f-444f-a4f1-3aaccc81c21b_qna_tool_0
+2024-03-16 14:12:52 +0400   35642 execution.flow     INFO     Node qna_tool completes.
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Start to run 6 nodes with concurrency level 16.
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Executing node setup_env. node run id: 222e7f7d-cc7e-4d62-92f7-5eb164eeabaf_setup_env_0
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Node setup_env completes.
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Executing node download_tool. node run id: 222e7f7d-cc7e-4d62-92f7-5eb164eeabaf_download_tool_0
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Executing node rewrite_question_tool. node run id: 222e7f7d-cc7e-4d62-92f7-5eb164eeabaf_rewrite_question_tool_0
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Node download_tool completes.
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Executing node build_index_tool. node run id: 222e7f7d-cc7e-4d62-92f7-5eb164eeabaf_build_index_tool_0
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Chunk size: 1024, chunk overlap: 64
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index path: /Users/tarique/Downloads/LLM-main/core/chat_with_pdf/.index/.pdfs/tenancyguideen.pdf.index_1024_64
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index already exists, bypassing index creation
+2024-03-16 14:24:38 +0400   35642 execution.flow     INFO     Node build_index_tool completes.
+2024-03-16 14:24:39 +0400   35642 execution.flow     INFO     [rewrite_question_tool in line 0 (index starts from 0)] stdout> Rewritten question: What does Tenancy Regulating Legislations refer to?
+2024-03-16 14:24:39 +0400   35642 execution.flow     INFO     Node rewrite_question_tool completes.
+2024-03-16 14:24:39 +0400   35642 execution.flow     INFO     Executing node find_context_tool. node run id: 222e7f7d-cc7e-4d62-92f7-5eb164eeabaf_find_context_tool_0
+2024-03-16 14:24:39 +0400   35642 execution.flow     INFO     Node find_context_tool completes.
+2024-03-16 14:24:39 +0400   35642 execution.flow     INFO     Executing node qna_tool. node run id: 222e7f7d-cc7e-4d62-92f7-5eb164eeabaf_qna_tool_0
+2024-03-16 14:24:44 +0400   35642 execution.flow     INFO     Node qna_tool completes.
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Start to run 6 nodes with concurrency level 16.
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Executing node setup_env. node run id: e226301f-797a-4273-b3e4-23833dda6118_setup_env_0
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Node setup_env completes.
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Executing node download_tool. node run id: e226301f-797a-4273-b3e4-23833dda6118_download_tool_0
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Executing node rewrite_question_tool. node run id: e226301f-797a-4273-b3e4-23833dda6118_rewrite_question_tool_0
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Node download_tool completes.
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Executing node build_index_tool. node run id: e226301f-797a-4273-b3e4-23833dda6118_build_index_tool_0
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Chunk size: 1024, chunk overlap: 64
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index path: /Users/tarique/Downloads/LLM-main/core/chat_with_pdf/.index/.pdfs/tenancyguideen.pdf.index_1024_64
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     [build_index_tool in line 0 (index starts from 0)] stdout> Index already exists, bypassing index creation
+2024-03-16 14:31:46 +0400   35642 execution.flow     INFO     Node build_index_tool completes.
+2024-03-16 14:31:47 +0400   35642 execution.flow     INFO     [rewrite_question_tool in line 0 (index starts from 0)] stdout> Rewritten question: What does article 13 state in the Tenancy Regulating Legislation?
+2024-03-16 14:31:47 +0400   35642 execution.flow     INFO     Node rewrite_question_tool completes.
+2024-03-16 14:31:47 +0400   35642 execution.flow     INFO     Executing node find_context_tool. node run id: e226301f-797a-4273-b3e4-23833dda6118_find_context_tool_0
+2024-03-16 14:31:49 +0400   35642 execution.flow     INFO     Node find_context_tool completes.
+2024-03-16 14:31:49 +0400   35642 execution.flow     INFO     Executing node qna_tool. node run id: e226301f-797a-4273-b3e4-23833dda6118_qna_tool_0
+2024-03-16 14:31:53 +0400   35642 execution.flow     INFO     Node qna_tool completes.
