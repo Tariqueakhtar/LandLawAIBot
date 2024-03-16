@@ -17,7 +17,10 @@ pip install -r requirements.txt
 ## How to run?
 You should open the flow.dag.yaml file in Visual Studio Code.
 Click on run button on the yaml file. This will invoke below command.
+
+```bash
 python -m promptflow._cli._pf.entry flow test --flow /LLM-main/core --interactive --user-agent "prompt-flow-extension/1.14.0 (darwin; x64) VSCode/1.86.0"
+```
 
 Then you can ask question as an user in the prompt.
 
