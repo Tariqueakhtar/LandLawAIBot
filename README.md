@@ -1,3 +1,10 @@
+# Revolutionizing Real Estate: Introducing Dubai Land Law Chatbot
+
+In today's fast-paced world, technology continues to reshape industries, making tasks more efficient and accessible than ever before. The real estate sector, known for its complexity and vast information landscape, is no exception to this digital transformation. With the aim of simplifying and enhancing user experiences, we are proud to introduce our cutting-edge chatbot developed. This chatbot will answer each question based on the context of Dubai Land Department's rules and regulation.
+
+# What is the Dubai LandLawAIbot?
+Our chatbot is an intelligent virtual assistant powered by state-of-the-art AI technology, including Promptflow and OpenAI models. It serves as a comprehensive resource for individuals and businesses seeking information related to land, properties, and their respective laws in Dubai.
+
 # Chat with PDF
 
 This is a simple flow that allow you to ask questions about the content of a PDF file and get answers.
