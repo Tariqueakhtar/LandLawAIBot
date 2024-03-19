@@ -39,6 +39,18 @@ Then you can ask question as an user in the prompt.
 
 ![image](https://github.com/Tariqueakhtar/LandLawAIBot/assets/44436572/4c3e4ab0-bb53-4b49-95db-947b42d5ed5d)
 
+## How to Dockerize?
+Exported Dockerfile & its dependencies are located in the 'dest' folder. The structure is as below:
 
-
+flow: the folder contains chat with pdf flow files
+...
+connections: the folder contains yaml files to create all related connections
+...
+runit: the folder contains all the runit scripts
+...
+Dockerfile: the dockerfile to build the image
+start.sh: the script used in CMD of Dockerfile to start the service
+settings.json: a json file to store the settings of the docker image
+README.md: the readme file to describe how to use the dockerfile
+Please refer to official doc for more details about how to use the exported dockerfile and scripts.
 
