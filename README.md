@@ -35,4 +35,10 @@ Then you can ask question as an user in the prompt.
 ## Comparing Actual answer with Bot response.
 ![image](https://github.com/Tariqueakhtar/LandLawAIBot/assets/44436572/08a9a833-56af-49d6-9eaf-c92f2211101f)
 
+![image](https://github.com/Tariqueakhtar/LandLawAIBot/assets/44436572/2c178a5e-07b0-493a-bfd5-abed4d0b1fc2)
+
+![image](https://github.com/Tariqueakhtar/LandLawAIBot/assets/44436572/4c3e4ab0-bb53-4b49-95db-947b42d5ed5d)
+
+
+
 
