@@ -44,7 +44,7 @@ Exported Dockerfile & its dependencies are located in the 'dest' folder. The str
 
 - flow: the folder contains chat with pdf flow files
 
-...
+
 - connections: the folder contains yaml files to create all related connections
 ...
 
