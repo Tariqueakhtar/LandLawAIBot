@@ -42,22 +42,22 @@ Then you can ask question as an user in the prompt.
 ## How to Dockerize?
 Exported Dockerfile & its dependencies are located in the 'dest' folder. The structure is as below:
 
-flow: the folder contains chat with pdf flow files
+- flow: the folder contains chat with pdf flow files
 
 ...
-connections: the folder contains yaml files to create all related connections
+- connections: the folder contains yaml files to create all related connections
 ...
 
-runit: the folder contains all the runit scripts
+- runit: the folder contains all the runit scripts
 ...
 
-Dockerfile: the dockerfile to build the image
+- Dockerfile: the dockerfile to build the image
 
-start.sh: the script used in CMD of Dockerfile to start the service
+- start.sh: the script used in CMD of Dockerfile to start the service
 
-settings.json: a json file to store the settings of the docker image
+- settings.json: a json file to store the settings of the docker image
 
-README.md: the readme file to describe how to use the dockerfile
+- README.md: the readme file to describe how to use the dockerfile
 
 Please refer to official doc for more details about how to use the exported dockerfile and scripts.
 
