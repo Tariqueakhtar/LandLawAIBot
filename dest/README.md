@@ -1,5 +1,5 @@
 Exported Dockerfile & its dependencies are located in the same folder. The structure is as below:
-- flow: the folder contains all the flow files
+- flow: the folder contains chat with pdf flow files
   - ...
 - connections: the folder contains yaml files to create all related connections
   - ...
