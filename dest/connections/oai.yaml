@@ -1,0 +1,6 @@
+$schema: 
+  https://azuremlschemas.azureedge.net/promptflow/latest/OpenAIConnection.schema.json
+type: open_ai
+name: oai
+module: promptflow.connections
+api_key: ${env:OAI_API_KEY}
